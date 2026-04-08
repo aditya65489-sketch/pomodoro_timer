@@ -1,4 +1,5 @@
 🍅 Project Presentation: Vanilla JS Pomodoro Timer
+
 TOPIC 1: Project Overview & Tech Stack
 •	The Goal: To build a productivity tool that seamlessly alternates between 25-minute focus sessions and 5-minute break sessions.
 
